@@ -1,5 +1,5 @@
 # 💫 About Me
-<br>Hi, I'm Hassam Ata, a software engineering student at NED University Karachi. I specialize in full-stack development with expertise in React, Node.js, and PostgreSQL. Passionate about cloud technologies, AI, and space, I focus on building scalable, impactful solutions. I'm always eager to learn and collaborate on innovative projects. Feel free to explore my work!
+<br>Hi, I'm Hassam Ata, a software engineering student at NED University Karachi. I  learning full stack development with the MERN tech stack . Feel free to explore my work!
 
 
 ## 🌐 Socials:
