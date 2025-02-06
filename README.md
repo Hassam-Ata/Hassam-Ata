@@ -1,5 +1,5 @@
 # 💫 About Me
-<br>Hi, I'm Hassam Ata, a software engineering student at NED University Karachi. I  learning full stack development with the MERN tech stack . Feel free to explore my work!
+<br>Hi, I'm Hassam Ata, a software engineering student at NED University Karachi. I'm learning full stack development.Feel free to explore my work!
 
 
 ## 🌐 Socials:
